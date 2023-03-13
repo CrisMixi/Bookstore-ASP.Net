@@ -1,0 +1,158 @@
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.AssemblyReference.cache
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\Users\mobil\source\repos\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\WebBanSach.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Net.Http.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Net.Sockets.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\WebGrease.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.AssemblyReference.cache
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+D:\Hoc Tap\Lap_Trinh_Web\Project Mini\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb

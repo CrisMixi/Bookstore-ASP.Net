@@ -1,0 +1,16 @@
+﻿
+
+/*Sử dụng độ rộng cho div toàn trang*/
+#ToanTrang {
+    position: relative;
+}
+
+/*thiết kế link đăng ký đăng nhập*/
+.DangkyDangnhap {
+    float: right;
+    margin-top: -1%;
+}
+.DangkyDangnhap a:hover {
+    text-decoration:none;
+    color:green;
+}
