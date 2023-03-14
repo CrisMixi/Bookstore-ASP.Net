@@ -720,7 +720,9 @@ hr {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   background: #444444;
-  width: 300px; }
+  width: 400px;
+  height: 330px;
+}
   /* line 864, ../sass/screen.scss */
   .activity .activity-list-update {
     padding: 6px;

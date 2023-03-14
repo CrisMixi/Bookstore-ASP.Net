@@ -8,11 +8,8 @@
     @*CSS Người dùng*@
     <link rel="stylesheet" href="~/content/css/nguoidungcss.css">
     <link rel="stylesheet" href="~/Content/CSS/screen.css">
-    <link rel="stylesheet" href="./stylesheets/fonts.css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     @*Chèn css font icon*@
-    <link rel="stylesheet" href="~/content/fontawesome-free-6.3.0-web/css/fontawesome.min.css">
+    <link rel="stylesheet" href="~/Content/fontawesome/css/all.css">
 </head>
 
 <body>
@@ -22,51 +19,82 @@
             <div class="flash">
                 @*Tạo div đăng ký đăng nhập*@
                 <div class="DangkyDangnhap">
-                    <i class="fa-thin fa-bed-front"></i>
+                    <i class="fa-solid fa-right-to-bracket"></i>
                     @Html.ActionLink("Đăng ký", "DangKy", null, htmlAttributes: new { @class = "DangKy" })  @*Html.ActionLink cũng giống như thẻ a*@
-                    <i class="fa-thin fa-arrow-right-to-bracket"></i>
+                    <i class="fa-sharp fa-solid fa-user-secret"></i>
                     @Html.ActionLink("Đăng nhập", "DangNhap", null, htmlAttributes: new { @class = "DangNhap" })
                 </div>
             </div>
-            <div class="flash error">
-                <a href="#" class="close"><i class="icon icon-remove"></i></a>
-                <span><i class="icon-2x icon-warning-sign"></i></span>
-                <p>This is an error message</p>
-            </div>
 
-            <div class="flash success">
-                <a href="#" class="close"><i class="icon icon-remove"></i></a>
-                <span><i class="icon-2x icon-smile"></i></span>
-                <p>The thing you just did totally just worked!</p>
+            @*Xây dựng menu header *@
+            <div class="flash success" id="divDanhMuc">
+                <h3 class="logo-header">Bookstore</h3>
+                @*phần tìm kiếm*@
+                <div id="txtTimkiem">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.TextBox("txtTimKiem", "", htmlAttributes: new { @class = "textBoxTimKiem", @placeholder = "Nhập vào từ khóa cần tìm" })
+
+                        <div id="btnSearch">
+                            <button type="button">Tìm Kiếm</button>
+                        </div>
+                    }
+                </div>
+                @*Menu bên phải header*@
+                <ul class="navMenu">
+                    <li>
+                        <a href="#">Trang chủ</a>
+                    </li>
+                    <li>
+                        <a href="#">Giới thiệu</a>
+                    </li>
+                    <li>
+                        <a href="#">Liên hệ</a>
+                    </li>
+                    <li>
+                        <a href="#">Hướng dẫn</a>
+                    </li>
+                    <li>
+                        <a href="#">Sách</a>
+                    </li>
+                </ul>
             </div>
         </section>
 
         <section>
-            <div class="activity">
-                <h1 class="item-header">Recent Activity</h1>
+            <div id="menuleft">
+                <div class="activity">
+                    <h1 class="item-header">Recent Activity</h1>
 
-                <div class="activity-list-update">
-                    <img src="http://lorempixel.com/50/50/" alt="Image">
-                    <p><strong>Dennis The Dude</strong> updated his <a href="#">user profile</a>.</p>
-                    <div class="clear"></div>
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>Dennis The Dude</strong> updated his <a href="#">user profile</a>.</p>
+                        <div class="clear"></div>
+                    </div>
+
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>Abe Kobo</strong> uploaded a new file <a href="#">new-design.png</a></p>
+                        <div class="clear"></div>
+                    </div>
+
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>Abe Kobo</strong> uploaded a new file <a href="#">new-design.png</a></p>
+                        <div class="clear"></div>
+                    </div>
+
+                    <a href="#" class="item-footer green">
+                        See all activity
+                    </a>
                 </div>
-
-                <div class="activity-list-update">
-                    <img src="http://lorempixel.com/50/50/" alt="Image">
-                    <p><strong>Abe Kobo</strong> uploaded a new file <a href="#">new-design.png</a></p>
-                    <div class="clear"></div>
-                </div>
-
-                <div class="activity-list-update">
-                    <img src="http://lorempixel.com/50/50/" alt="Image">
-                    <p><strong>Abe Kobo</strong> uploaded a new file <a href="#">new-design.png</a></p>
-                    <div class="clear"></div>
-                </div>
-
-                <a href="#" class="item-footer green">
-                    See all activity
-                </a>
             </div>
+
+            @*chèn nino slider*@
+            <div id="slider" class="nivoSlider">
+                    <img src="~/Content/img/banner-dacnhantam.jpg" />                   
+            </div>
+           <div style="clear:both"></div>
         </section>
 
         <section>
@@ -115,6 +143,6 @@
                 </div>
             </div>
         </section>
-    </div>
+    </div>  
 </body>
 </html>
